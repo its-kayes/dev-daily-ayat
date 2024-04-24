@@ -1,0 +1,35 @@
+.title {
+    font-weight: 800;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#arabicAyat {
+    /* font-family: "Noto Naskh Arabic", serif; */
+    font-family: "Noorehuda", "sans-serif";
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: 25px;
+    font-style: normal;
+    color: #565100;
+
+}
+
+.surahTitle {
+    display: flex;
+    justify-content: center;
+    font-weight: 300;
+    /* color: #565100; */
+}
+
+
+#reload:hover {
+    cursor: pointer;
+}
+
+#footer {
+    font-size: small;
+    display: flex;
+    justify-content: center;
+}
